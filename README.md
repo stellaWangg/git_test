@@ -1,3 +1,3 @@
-# git_test
+# odin_recipe
 
-practice odin project's git
+practice my first odin project
