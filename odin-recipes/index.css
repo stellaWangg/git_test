@@ -1,0 +1,27 @@
+* {
+  color: aliceblue;
+  background-color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 1.5rem;
+  margin: 1.5px;
+  font-size: 30px;
+}
+
+h1,
+main {
+  text-align: center;
+}
+
+ul,
+a {
+  list-style: none;
+  text-decoration: none;
+  text-align: center;
+}
+h1 {
+  border: 1px solid wheat;
+  border-radius: 15px 15px;
+}
+a:hover {
+  color: gold;
+}
